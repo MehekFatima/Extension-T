@@ -15,4 +15,4 @@ Once the extension is installed, you'll see its icon next to the address bar in 
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](demo-1.gif)
